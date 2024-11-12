@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Страница — 1" id="wMV_Qnkp44GckSceB2j4">
-    <mxGraphModel dx="847" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="365" dy="243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="290" y="70" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="NGsIiaSq1cdiMAnRfdac-10" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="917.73" y="419" width="79.27" height="80" as="geometry" />
+          <mxGeometry x="917.73" y="419" width="309.64" height="361" as="geometry" />
         </mxCell>
         <mxCell id="NGsIiaSq1cdiMAnRfdac-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#f8c73f;" parent="NGsIiaSq1cdiMAnRfdac-10" vertex="1">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="NGsIiaSq1cdiMAnRfdac-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:538/1*AbuS5UNh29b7qbh5diEqgA.png;" parent="NGsIiaSq1cdiMAnRfdac-10" vertex="1">
           <mxGeometry x="15.469999999999999" y="10" width="49.06" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="V9aWPaNLKv0Zf4uOpUsE-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://grafana.com/media/docs/loki/logo-grafana-loki.png;" vertex="1" parent="NGsIiaSq1cdiMAnRfdac-10">
+          <mxGeometry x="25" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NGsIiaSq1cdiMAnRfdac-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="520" y="100" width="80" height="80" as="geometry" />
@@ -286,6 +289,9 @@
         </mxCell>
         <mxCell id="NGsIiaSq1cdiMAnRfdac-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NGsIiaSq1cdiMAnRfdac-192" target="NGsIiaSq1cdiMAnRfdac-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9aWPaNLKv0Zf4uOpUsE-2" value="&lt;b&gt;Loki&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="927" y="466" width="60" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
